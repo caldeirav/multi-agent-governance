@@ -5,6 +5,9 @@
 # python virtual environment
 .venv
 
+# working directories
+storage/
+
 # credentials and API keys
 *.env
 
