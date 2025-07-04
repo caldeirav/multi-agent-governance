@@ -7,6 +7,8 @@
 
 # working directories
 storage/
+database/
+data/output/
 
 # credentials and API keys
 *.env
