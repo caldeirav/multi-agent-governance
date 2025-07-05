@@ -1,6 +1,7 @@
 # generated files
 *.pyc
 .cache-loader
+.deepeval
 
 # python virtual environment
 .venv
